@@ -1,10 +1,18 @@
 # Authors
 
-Chandan Pradhan:
-  Name        : "Chandan Pradhan"
-  email       : "c.pradhan@iitg.ac.in"
-  bio         : "Ph.D Student, Indian Institute of Technology, Guwahati, India."
+Name Name:
+  name        : "Chandan Pradhan"
+  uri         : "http://name.com"
+  email       : "name@name.com"
+  bio         : "This is the first name."
   avatar      : "bio-photo-2.jpg"
-  GScholar     : "https://scholar.google.co.in/citations?user=G_9zUzsAAAAJ&hl=en&oi=ao"
-  ResearchGate : "https://www.researchgate.net/profile/Chandan_Pradhan5"
-  Scopus      : "https://www.scopus.com/authid/detail.uri?authorId=57200605357"
+  twitter     : "name"
+  google_plus : "Name"
+
+Name2 Name2:
+  name        : "Name2 Name2"
+  email       : "name2@name2.com"
+  bio         : "I ordered what?"
+  avatar      : "bio-photo.jpg"
+  twitter     : "name2"
+  google_plus : "Name"
