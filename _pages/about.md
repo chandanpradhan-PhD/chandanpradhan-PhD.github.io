@@ -14,7 +14,7 @@ Guwahati - 781039, Assam, India <br/>
 
 ## About me
 
-Welcome! I am a Research Scholar in the [Department of Civil Engineering](https://iitg.ac.in/civil/site) of  [Indian Institute of Technology Roorkee](https://iitg.ac.in/).  
+Welcome! I am a Research Scholar in the [Department of Civil Engineering](https://iitg.ac.in/civil/site) of  [Indian Institute of Technology Guwahati](https://iitg.ac.in/).  
 
 I have a B.Tech. (Bachelor of Technology) degree in Civil Engineering from [IGIT Sarang](https://igitsarang.ac.in/) and a M.Tech. (Master of Technology) degree in Water Resources Engineering and Management from [IIT Guwahati](https://iitg.ac.in/). During my Ph.D. at IIT Guwahati, I am working on impact of anthropogenic disturbances on fluvial systems. I am also studying quantitative fluvial geomorphology with hydrodynamic modelling, fluvial data analysis, and integration of the GIS dataset.
 
