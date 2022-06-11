@@ -15,14 +15,17 @@ redirect_from:
 	* Indian Institute of Technology (IIT) Guwahati, India <br/>
 	* Supervisors: [Dr. Rishikesh Bharti](https://www.iitg.ac.in/rbharti/) and [Prof. Subashisa Dutta](https://www.iitg.ac.in/civil/Dr.%20Subashisa%20Dutta/index.htm) <br/>
 	* Dissertation title: --
+	* CGPA (In Coursework)- 10.0/10.0
 * **Master of Technology (M.Tech.)** in Water Resources Engineering (2016)
 	* Department of Civil Engineering <br/>
 	* Indian Institute of Technology (IIT) Guwahati, India <br/>
 	* Supervisor: [Prof. Subashisa Dutta](https://www.iitg.ac.in/civil/Dr.%20Subashisa%20Dutta/index.htm) <br/>
 	* Thesis title: Impacts of River Interventions on Alluvial Channel Morphology.
+	* CGPA - 9.62/10.0
 * **Bachelor of Technology (B.Tech.)** in Civil Engineering (2013)
 	* Department of Civil Engineering, <br/>
 	* Indira Gandhi Institute of technology, Sarang, Odisha, India 
+	* CGPA - 8.64/10.0
 
 ## Work Experience
 * Teaching Assistant, 
