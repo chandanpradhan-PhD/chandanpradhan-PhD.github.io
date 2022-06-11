@@ -9,42 +9,45 @@ You can also find updated list of my papers on [my Google Scholar profile](https
 
 ## Journal Articles 
 
-1. Pradhan, C., Chembolu, V., Dutta, S., & Bharti, R. (2021). Role of effective discharge on morphological changes for a regulated macrochannel river system. Geomorphology, 107718.
+1. C. Pradhan, V. Chembolu, S. Dutta, & R. Bharti (2021). Role of effective discharge on morphological changes for a regulated macrochannel river system. Geomorphology, 385, 107718. https://doi.org/10.1016/j.geomorph.2021.107718
 
-1. Chandan Pradhan, Vinay Chembolu, Rishikesh Bharti & Subashisa Dutta (2021) Regulated rivers in India: research progress and future directions, ISH Journal of Hydraulic Engineering, https://doi.org/10.1080/09715010.2021.1975319 
+1. C. Pradhan, V. Chembolu, R. Bharti & S. Dutta (2021). Regulated rivers in India: research progress and future directions. ISH Journal of Hydraulic Engineering, https://doi.org/10.1080/09715010.2021.1975319   
 
-1. Pradhan, C., Chembolu, V., & Dutta, S. (2018). Impact of river interventions on alluvial channel morphology. ISH Journal of Hydraulic Engineering, 1-7.
+1. C. Pradhan, V. Chembolu & S. Dutta (2019). Impact of river interventions on alluvial channel morphology. ISH Journal of Hydraulic Engineering, 25:1, 87-93. https://doi.org/10.1080/09715010.2018.1453878  
 
-1. Nandi, KK, Pradhan, C, Dutta, S, Khatua, KK. How dynamic is the Brahmaputra? Understanding the process-form-vegetation interactions for hierarchies of energy dissipation. Ecohydrology. 2022;. Accepted Author Manuscript. https://doi.org/10.1002/eco.2416
+1. K.K. Nandi, C. Pradhan, S. Dutta, K.K. Khatua (2022). How dynamic is the Brahmaputra? Understanding the process-form-vegetation interactions for hierarchies of energy dissipation. Ecohydrology. https://doi.org/10.1002/eco.2416
 
-1. Rangarajan, V. G., Bharti, R., Mondal, S. K., Pradhan, C., & Dutta, S. (2018). Remote Sensing for Martian Studies: Inferences from Syrtis Major. Journal of the Indian Society of Remote Sensing, 1-15.
+1. V. G.Rangarajan, R. Bharti, S. K.Mondal,  C.Pradhan, &  S.Dutta (2018). Remote Sensing for Martian Studies: Inferences from Syrtis Major. Journal of the Indian Society of Remote Sensing, 1-15. https://doi.org/10.1007/s12524-018-0826-7
 
 ## Book Chapters
 
-1. Pradhan, C., Padhee, S.K., Dutta, S., Bharti, R. (2022). Assessment of Fluvial Controls and Cross-Sectional Recovery Indicators in a Large Regulated River. In: Chembolu, V., Dutta, S. (eds) Recent Trends in River Corridor Management. Lecture Notes in Civil Engineering, vol 229. Springer, Singapore. https://doi.org/10.1007/978-981-16-9933-7_3
+1. C. Pradhan, S.K. Padhee, S. Dutta, & R. Bharti (2022). Assessment of Fluvial Controls and Cross-Sectional Recovery Indicators in a Large Regulated River. Recent Trends in River Corridor Management. Lecture Notes in Civil Engineering, vol 229. Springer, Singapore. https://doi.org/10.1007/978-981-16-9933-7_3 
 
-1. C.Pradhan, Suresh Modalavalasa, S. Dutta, Rishikesh Bharti, A geomorphic approach to evaluate river recovery potential for regulated river basin, River Flow 2020: Proceedings of the 10th Conference on Fluvial Hydraulics (Delft, Netherlands, 7-10 July 2020).
+1. C. Pradhan, Suresh Modalavalasa, S. Dutta & Rishikesh Bharti (2020). A geomorphic approach to evaluate river recovery potential for regulated river basin. In Riverflow 2020, 7th-10th July, 2020, Delft, Netherland DOI: 10.1201/b22619-253 
 
 ## Conferences
 
-1. Pradhan, C., Dutta, S., & Bharti, R. (2021, December). Understanding River Freedom Space and Seasonal Variation of Surface Water Dynamics in Large Fluvial Landscapes: Implications for Floods and Anthropogenic Stress. In AGU Fall Meeting 2021. AGU.
+1.	C. Pradhan, S. Dutta & R. Bharti (2021). Understanding River Freedom Space and Seasonal Variation of Surface Water Dynamics in Large Fluvial Landscapes: Implications for Floods and Anthropogenic Stress; Abstract submitted to AGU Fall Meeting 2021.
 
-1. Nandi, K. K. K., Akkimi, A., Pradhan, C., Dutta, S., & Khatua, K. K. (2021, December). Entropy Based Relation Between In-stream Green Corridor and Channel Stability of a Large Braided Brahmaputra River. In AGU Fall Meeting 2021. AGU.
+2.	C. Pradhan, S. Dutta & R. Bharti (2021). Assessing The River Freedom Space along the continuum of braided channel patterns using advanced geo-spatial analysis, 4th International Conference on the status and future of the World’s Large Rivers, Moscow 2021.
 
-1. Pradhan, C., Padhee, S., Dutta, S., & Bharti, R. (2021). An entropy-based investigation on the river recovery potential in a regulated river basin (No. EGU21-9362). Copernicus Meetings.
+3.	C. Pradhan, S.K. Padhee, S. Dutta & R. Bharti (2021). An entropy-based investigation on the river recovery potential in a regulated river basin, EGU General Assembly 2021, online, 19–30 Apr 2021, EGU21-9362, https://doi.org/10.5194/egusphere-egu21-9362, 2021.
 
-1. Nandi, K. K., Pradhan, C., Sultan, J., Dutta, S., and Khatua, K. K, Energy Dissipation Modeling in Highly Braided Brahmaputra River, HYDRO 2020- International Conference, 26/3/21.
+4.	C. Pradhan, S.K. Padhee, S. Dutta & R. Bharti (2021). Assessment of transport effectiveness and recovery trajectory in regulated Mahanadi river, International Conference on River Corridor Research and Management (RCRM 2021), IIT Jammu, 2021/2/27.
 
-1. C. Pradhan, S.K. Padhee, S. Dutta, Rishikesh Bharti, Assessment of transport effectiveness and recovery trajectory in regulated Mahanadi river, International Conference on River Corridor Research and Management (RCRM 2021), IIT Jammu, 2021/2/27.  
+5.	C. Pradhan, S. Pani, S. Dutta & R. Bharti (2019). Temporal Changes in Geomorphic Effectiveness of Floods in Regulated River Basins, 2019/7/29, 16th Annual Meeting, AOGS 2019, Singapore.
 
-1. Chandan Pradhan, Sangita Pani, Subashisa Dutta, Rishikesh Bharti, Temporal Changes in Geomorphic Effectiveness of Floods in Regulated River Basins, 2019/7/29, 16th Annual Meeting, AOGS 2019, Singapore.
+6.	C. Pradhan, S. Dutta & R. Bharti (2017). A spatio- Temporal Analysis of Channel Migration using Remote sensing, field investigation and GIS techniques: The Kameng River (Lower Reach), India; 9th International conference of Geomorphology, 6-11th November,2017, New Delhi, India.
 
-1. Amit Siddharth, Chandan Pradhan, M Suresh, Subashisa Dutta, Effect of In-stream Variable on the Lower Mahanadi River, India, 2019/7/31, 16th Annual Meeting, AOGS 2019, Singapore.
+7.	C. Pradhan, R. Bharti and S. Dutta (2017). Assessment of post-impoundment geomorphic variations along Brahmani River using remote sensing, IEEE International Geoscience and Remote Sensing Symposium (IGARSS), Fort Worth, TX, 2017, pp. 5598-5601, DOI: 10.1109/IGARSS.2017.8128274.
 
-1. M Suresh, Chandan Pradhan, Subashisa Dutta, Vinayak Kulkarni, Flow Structure in Meandering Channel with Vegetation,2019/7/31,16th Annual Meeting, AOGS 2019, Singapore.
+8.	C. Pradhan, V. Chembolu and S. Dutta (2016). Impacts of River Interventions on Alluvial Channel Morphology- Hydro International, Organized by Indian Society of Hydraulics, 8-10th December, 2016, CWPRS, Pune.
 
-1. C.Pradhan, Rishikesh Bharti and S.Dutta; A spatio- Temoporal Analysis of Channel Migration using Remote sensing, field investigation and GIS techniques : The Kameng River (Lower Reach),India; 9th International conference of Geomorphology, 6-11th November,2017, New Delhi,India
+1.  K. K. Nandi,  A. Akkimi,  C. Pradhan, S. Dutta, &  K. K. Khatua (2021, December). Entropy Based Relation Between In-stream Green Corridor and Channel Stability of a Large Braided Brahmaputra River. In AGU Fall Meeting 2021. AGU.
 
-1. Pradhan, C., Bharti, R., & Dutta, S. (2017, July). Assessment of post-impoundment geomorphic variations along Brahmani River using remote sensing. In Geoscience and Remote Sensing Symposium (IGARSS), 2017 IEEE International (pp. 5598-5601). IEEE.
+1. K. K. Nandi,  C. Pradhan,  J. Sultan, S. Dutta, &  K. K. Khatua (2021). Energy Dissipation Modeling in Highly Braided Brahmaputra River, HYDRO 2020- International Conference
 
-1. C.Pradhan,V.Chembolu and S.Dutta- Impacts of River Interventions on Alluvial Channel Morphology- Hydro International (2016),Organized by Indian Society of Hydraulics, 8-10th December, 2016, CWPRS, Pune.
+1. A. Siddharth, C. Pradhan, M. Suresh, S. Dutta (2019). Effect of In-stream Variable on the Lower Mahanadi River, India, 2019/7/31, 16th Annual Meeting, AOGS 2019, Singapore.
+
+1. M. Suresh, C. Pradhan, S. Dutta, V. Kulkarni (2019). Flow Structure in Meandering Channel with Vegetation,2019/7/31,16th Annual Meeting, AOGS 2019, Singapore.
+
