@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Chandan Pradhan"
   avatar           : "bio-photo-2.png"
-  bio              : "Research Scholar, Department of Civil Engineering, IIT Guwahati, India"
+  bio              : "Research Scholar, Department of Civil Engineering, Indian Institute of Technology, Guwahati, India"
   location         : "Guwahati"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.co.in/citations?user=G_9zUzsAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Chandan_Pradhan5"
