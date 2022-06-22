@@ -52,4 +52,3 @@ You can also find updated list of my papers on [my Google Scholar profile](https
 1. A. Siddharth, **C. Pradhan**, M. Suresh, S. Dutta (2019). Effect of In-stream Variable on the Lower Mahanadi River, India, 2019/7/31, 16th Annual Meeting, AOGS 2019, Singapore.
 
 1. M. Suresh, **C. Pradhan**, S. Dutta, V. Kulkarni (2019). Flow Structure in Meandering Channel with Vegetation,2019/7/31,16th Annual Meeting, AOGS 2019, Singapore.
-
