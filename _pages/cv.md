@@ -61,7 +61,6 @@ redirect_from:
 * MATLAB
 
 ## Talks/ Workshop/ Symposium
-
 * Participated in the Master Class “River functions under pressure”, by Hervé Piégay, Jorge Abad and Virginia Ruiz-Villanueva, Delft, 10th July 2020, 10th International Conference on Fluvial Hydraulics River Flow 2020, Delft, Netherland.
 
 * M. Suresh, C. Pradhan, A. Siddharth, S. Dutta (2019). Assessment of Temporal variation of vegetated Sand Bar Area in Brahmaputra River with Remote Sensing Input, National Symposium on Innovations in geospatial technology for sustainable development with special emphasis on NER November 20-22, 2019, Shillong, Meghalaya.
@@ -86,4 +85,3 @@ Participated in GIAN course on “Optimization methods to Ground Water Resources
 * Third position in specialization, M-Tech (Water Resources Engineering), IIT Guwahati, 2016
 
 * LANCO Foundation Merit Award for excellent performance in Department of Civil Engineering, Indira Gandhi Institute of Technology, Odisha, India (2012)
-  
