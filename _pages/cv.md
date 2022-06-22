@@ -81,9 +81,9 @@ Participated in GIAN course on “Optimization methods to Ground Water Resources
 
 ## Awards/ Scholarship
 
-* MHRD Fellowship during M.Tech and PhD (July 2014- July 2021).
+* MHRD Fellowship during M.Tech and PhD (July 2014- July 2021)
 
-* Third position in specialization, M-Tech (Water Resources Engineering), IIT Guwahati, 2016.
+* Third position in specialization, M-Tech (Water Resources Engineering), IIT Guwahati, 2016
 
 * LANCO Foundation Merit Award for excellent performance in Department of Civil Engineering, Indira Gandhi Institute of Technology, Odisha, India (2012)
   
