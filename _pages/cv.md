@@ -63,6 +63,8 @@ redirect_from:
 ## Talks/ Workshop/ Symposium
 * Participated in the Master Class “River functions under pressure”, by Hervé Piégay, Jorge Abad and Virginia Ruiz-Villanueva, Delft, 10th July 2020, 10th International Conference on Fluvial Hydraulics River Flow 2020, Delft, Netherland.
 
+* M. Suresh, C. Pradhan, A. Siddharth, S. Dutta (2019). Assessment of Temporal variation of vegetated Sand Bar Area in Brahmaputra River with Remote Sensing Input, National Symposium on Innovations in geospatial technology for sustainable development with special emphasis on NER November 20-22, 2019, Shillong, Meghalaya.
+
 * Participated in seminar on "Soil Erosion in North Eastern Region" held on 15th February, 2019 organised by Brahmaputra Board.
 
 *  Participated in the short term course on "Flood Risk and River Basin Management" conducted by Department of Civil Engineering, IIT Guwahati (29th Oct, 2018- 2nd Nov, 2018).
