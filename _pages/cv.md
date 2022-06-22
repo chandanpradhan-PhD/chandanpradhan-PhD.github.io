@@ -28,10 +28,10 @@ redirect_from:
 	* CGPA - 8.64/10.0
 * **12th (CHSE)** in Science (2009)
 	* BJB Junior College, Bhubaneswar, Odisha, India, <br/>
-	* Percentage - 85.0/100.0
+	* Percentage - 85.0/100
 * **10th (BSE)** (2007)
 	* CNHS, Bargarh, Odisha, India, <br/>
-	* Percentage - 93.3/100.0
+	* Percentage - 93.3/100
 	
 ## Work Experience
 * Teaching Assistant, 
