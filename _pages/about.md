@@ -26,7 +26,7 @@ I have a B.Tech. (Bachelor of Technology) degree in Civil Engineering from [IGIT
   **Read the article at-**
   Pradhan, C., Padhee, S.K., Bharti, R. et al. A process-based recovery indicator for anthropogenically disturbed river system. Sci Rep 12, 10390 (2022). https://doi.org/10.1038/s41598-022-14542-x
 
-* Going to deliver a lecture on 'River Recovery and Use of Geospatial Techniques' in 5th Pre-event of the 2nd UN-WGI Congress, Gauhati University, India
+* Delivered a lecture on 'River Recovery and Use of Geospatial Techniques' in 5th Pre-event of the 2nd UN-WGI Congress, Gauhati University, India
 
 ## Contact Info and Links:
 * E-mail: c.pradhan@iitg.ac.in
