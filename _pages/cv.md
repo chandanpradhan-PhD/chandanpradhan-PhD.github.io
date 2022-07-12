@@ -88,10 +88,10 @@ Participated in GIAN course on “Optimization methods to Ground Water Resources
 
 ## Societal Membership
 
-(BSG) British Society of Geomorphology
-AGU Membersip 
-(EGU) Membership, European Geosciences Union 
-(IAHR) International Association for Hydro-environment Engineering and Research 
-(AOGS) Asia Oceania Geosciences Society Membership 
-ASCE Membership 
-(ISH) The Indian Society for Hydraulics 
+* (BSG) British Society of Geomorphology
+* AGU Membersip 
+* (EGU) Membership, European Geosciences Union 
+* (IAHR) International Association for Hydro-environment Engineering and Research 
+* (AOGS) Asia Oceania Geosciences Society Membership 
+* ASCE Membership 
+* (ISH) The Indian Society for Hydraulics 
