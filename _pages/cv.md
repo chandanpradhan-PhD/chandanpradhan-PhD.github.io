@@ -85,3 +85,13 @@ Participated in GIAN course on “Optimization methods to Ground Water Resources
 * Third position in specialization, M-Tech (Water Resources Engineering), IIT Guwahati, 2016
 
 * LANCO Foundation Merit Award for excellent performance in Department of Civil Engineering, Indira Gandhi Institute of Technology, Odisha, India (2012)
+
+## Societal Membership
+
+(BSG) British Society of Geomorphology
+AGU Membersip 
+(EGU) Membership, European Geosciences Union 
+(IAHR) International Association for Hydro-environment Engineering and Research 
+(AOGS) Asia Oceania Geosciences Society Membership 
+ASCE Membership 
+(ISH) The Indian Society for Hydraulics 
