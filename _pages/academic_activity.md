@@ -14,7 +14,7 @@ redirect_from:
 * Remote Sensing and GIS
 * Engineering Geology
 
-## Reviewer in:
+## Peer Review:
 * International Journal of Applied Earth Observation and Geoinformation
 
 ## Talks/Presentations:
