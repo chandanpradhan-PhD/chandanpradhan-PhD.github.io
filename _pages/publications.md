@@ -27,7 +27,7 @@ You can also find updated list of my papers on [my Google Scholar profile](https
 
 1. **C. Pradhan**, Suresh Modalavalasa, S. Dutta & Rishikesh Bharti (2020). A geomorphic approach to evaluate river recovery potential for regulated river basin. In Riverflow 2020, 7th-10th July, 2020, Delft, Netherland DOI: 10.1201/b22619-253 
 
-2. S.K. Padhee, C. Pradhan**, K.K. Nandi, & S. Dutta, (2022). Development of a Semi-distributed Rainfall-Runoff Model for Water Budgeting in Macropore Dominated Hilly River Basins, Water Sci.,Technol.Library, Vol. 113, Swatantra Kumar Dubey et al. (Eds): Soil-Water, Agriculture, and Climate Change
+2. S.K. Padhee, **C. Pradhan**, K.K. Nandi, & S. Dutta, (2022). Development of a Semi-distributed Rainfall-Runoff Model for Water Budgeting in Macropore Dominated Hilly River Basins, Water Sci.,Technol.Library, Vol. 113, Swatantra Kumar Dubey et al. (Eds): Soil-Water, Agriculture, and Climate Change
 
 ## Conferences
 
