@@ -25,7 +25,13 @@ I have a B.Tech. (Bachelor of Technology) degree in Civil Engineering from [IGIT
 
   **Read the article at-**
   Pradhan, C., Padhee, S.K., Bharti, R. et al. A process-based recovery indicator for anthropogenically disturbed river system. Sci Rep 12, 10390 (2022). https://doi.org/10.1038/s41598-022-14542-x
+  
+* Co-authord a book chapter on 'Hydrological Modeling in Himalayan River System' in Soil-Water, Agriculture, and Climate (Water Sci.,Technol.Library, Vol. 113).
 
+ **Read the article at-**
+ https://link.springer.com/book/9783031120589
+
+* Delivered a lecture on 'Implications of Google Earth Engine in Hydro-ecological Modeling' to Assam State Water Resources Engeneers in workshop conducted by NHP proeject.
 * Delivered a lecture on 'River Recovery and Use of Geospatial Techniques' in 5th Pre-event of the 2nd UN-WGI Congress, Gauhati University, India
 
 ## Contact Info and Links:
