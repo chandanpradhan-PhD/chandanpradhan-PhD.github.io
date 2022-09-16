@@ -28,7 +28,7 @@ I have a B.Tech. (Bachelor of Technology) degree in Civil Engineering from [IGIT
   
 * Co-authord a book chapter on 'Hydrological Modeling in Himalayan River System' in Soil-Water, Agriculture, and Climate (Water Sci.,Technol.Library, Vol. 113).
 
- **Read the article at-**
+  **Read the article at-**
  https://link.springer.com/book/9783031120589
 
 * Delivered a lecture on 'Implications of Google Earth Engine in Hydro-ecological Modeling' to Assam State Water Resources Engeneers in workshop conducted by NHP proeject.
