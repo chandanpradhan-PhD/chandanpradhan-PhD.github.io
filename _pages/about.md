@@ -21,7 +21,7 @@ I have a B.Tech. (Bachelor of Technology) degree in Civil Engineering from [IGIT
 
 ## [Updates]
 
-** Looking for a post-doc position in Hydraulics and Fluvial Geomorphology**
+**Looking for a post-doc position in Hydraulics and Fluvial Geomorphology**
 
 * Published a research article on 'River Recovery' in Nature Scientific Reports Journal
 
