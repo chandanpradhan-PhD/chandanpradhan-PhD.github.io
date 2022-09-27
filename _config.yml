@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chandan Pradhan"
+title                    : "Dr. Chandan Pradhan"
 title_separator          : "-"
 name                     : &name "Chandan Pradhan"
-description              : &description "Chandan Pradhan's website"
+description              : &description "Dr. Chandan Pradhan's website"
 url                      : https://chandanpradhan133.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chandanpradhan133/chandanpradhan133.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chandan Pradhan"
   avatar           : "bio-photo-2.png"
-  bio              : "Research Scholar, Department of Civil Engineering, Indian Institute of Technology, Guwahati, India"
+  bio              : "M. tech and PhD, Department of Civil Engineering, Indian Institute of Technology, Guwahati, India"
   location         : "Guwahati"
   employer         :
   pubmed           : 
