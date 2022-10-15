@@ -17,6 +17,8 @@ You can also find updated list of my papers on [my Google Scholar profile](https
 
 1. **C. Pradhan**, V. Chembolu & S. Dutta (2019). Impact of river interventions on alluvial channel morphology. ISH Journal of Hydraulic Engineering, 25:1, 87-93. https://doi.org/10.1080/09715010.2018.1453878  
 
+1. K.K. Nandi, **C. Pradhan**, S. K. Padhee, S. Dutta, K.K. Khatua (2022). Understanding the Entropy-based Morphological Variability and Energy Expenditure Mechanism of a large Braided River System. Journal of Hydrology (Accepted)
+
 1. K.K. Nandi, **C. Pradhan**, S. Dutta, K.K. Khatua (2022). How dynamic is the Brahmaputra? Understanding the process-form-vegetation interactions for hierarchies of energy dissipation. Ecohydrology. https://doi.org/10.1002/eco.2416
 
 1. V. G.Rangarajan, R. Bharti, S. K.Mondal,  **C.Pradhan**, &  S.Dutta (2018). Remote Sensing for Martian Studies: Inferences from Syrtis Major. Journal of the Indian Society of Remote Sensing, 1-15. https://doi.org/10.1007/s12524-018-0826-7
