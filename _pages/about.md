@@ -28,6 +28,11 @@ I have a B.Tech. (Bachelor of Technology) degree in Civil Engineering from [IGIT
   **Read the article at-**
   Pradhan, C., Padhee, S.K., Bharti, R. et al. A process-based recovery indicator for anthropogenically disturbed river system. Sci Rep 12, 10390 (2022). https://doi.org/10.1038/s41598-022-14542-x
   
+* Co-authord a research article entitled 'Understanding the Entropy-based Morphological Variability and Energy Expenditure Mechanism of a large Braided River System' in the Journal of Hydrology.
+
+  **Read the article at-**
+ https://link.springer.com/book/9783031120589
+
 * Co-authord a book chapter on 'Hydrological Modeling in Himalayan River System' in Soil-Water, Agriculture, and Climate (Water Sci.,Technol.Library, Vol. 113).
 
   **Read the article at-**
