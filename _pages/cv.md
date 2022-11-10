@@ -71,9 +71,9 @@ redirect_from:
 
 *  Participated in the short term course on "Flood Risk and River Basin Management" conducted by Department of Civil Engineering, IIT Guwahati (29th Oct, 2018- 2nd Nov, 2018).
 
-* Presented a paper entitled "A Framework for Impact Assessment of Peak Flooding Event on River Training Measures: Brahmani River" in NESAC, Shilong,2017.
+* Presented a paper entitled "A Framework for Impact Assessment of Peak Flooding Event on River Training Measures: Brahmani River" in NESAC, Shilong, 2017.
 
-*  Presented a paper entitled "Monitoring spatiotemporal changes in snow cover in Tawang River catchment using remote sensing and GIS" in Workshop on Advance Remote Sensing & GIS Methods and Applications; October,2016; IIT Guwahati,India.
+*  Presented a paper entitled "Monitoring spatiotemporal changes in snow cover in Tawang River catchment using remote sensing and GIS" in Workshop on Advance Remote Sensing & GIS Methods and Applications; October, 2016; IIT Guwahati,India.
 
 * Attended a workshop on “Research Opportunities in Hydrology and Water Resources under Climate change” at IIT Guwahati.
 
