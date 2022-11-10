@@ -55,7 +55,7 @@ You can also find updated list of my papers on [my Google Scholar profile](https
 
 1. K. K. Nandi,  **C. Pradhan**,  J. Sultan, S. Dutta, &  K. K. Khatua (2021). Energy Dissipation Modeling in Highly Braided Brahmaputra River, HYDRO 2020- International Conference
 
-3. 13.	L.L. Sahoo, K.K. Nandi, A. Anjaneyulu, **C. Pradhan**, A. Dubey, S. Dutta; Catchment Scale Vulnerability Assessment of Physio-climatic Characteristics in the Brahmaputra River Basin; AOGS 2021.  
+3. L.L. Sahoo, K.K. Nandi, A. Anjaneyulu, **C. Pradhan**, A. Dubey, S. Dutta; Catchment Scale Vulnerability Assessment of Physio-climatic Characteristics in the Brahmaputra River Basin; AOGS 2021.  
  
 14.	S. K. Saha, **C. Pradhan**, S. Dutta; Soil Erosion Assessment in Anthropogenically disturbed Ungauged Himalayan Catchment Using Geospatial Techniques; Abstract submitted to AGU Fall Meeting 2021.
 
