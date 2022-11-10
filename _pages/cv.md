@@ -34,6 +34,8 @@ redirect_from:
 	* Percentage - 93.3/100
 	
 ## Work Experience
+* JRF, TIH-TIDF, IIT Guwahati (July 2022-October 2022) 
+
 * Teaching Assistant, 
   Department of Civil Engineering 
   IIT Guwahati (2014-2021)
@@ -63,18 +65,19 @@ redirect_from:
 ## Talks/ Workshop/ Symposium
 * Participated in the Master Class “River functions under pressure”, by Hervé Piégay, Jorge Abad and Virginia Ruiz-Villanueva, Delft, 10th July 2020, 10th International Conference on Fluvial Hydraulics River Flow 2020, Delft, Netherland.
 
-* M. Suresh, C. Pradhan, A. Siddharth, S. Dutta (2019). Assessment of Temporal variation of vegetated Sand Bar Area in Brahmaputra River with Remote Sensing Input, National Symposium on Innovations in geospatial technology for sustainable development with special emphasis on NER November 20-22, 2019, Shillong, Meghalaya.
+* Presented a paper entitled "Assessment of Temporal variation of vegetated Sand Bar Area in Brahmaputra River with Remote Sensing Input" in National Symposium on Innovations in geospatial technology for sustainable development with special emphasis on NER November 20-22, 2019, Shillong, Meghalaya.
 
 * Participated in seminar on "Soil Erosion in North Eastern Region" held on 15th February, 2019 organised by Brahmaputra Board.
 
 *  Participated in the short term course on "Flood Risk and River Basin Management" conducted by Department of Civil Engineering, IIT Guwahati (29th Oct, 2018- 2nd Nov, 2018).
 
-* C.Pradhan (2017). A Framework for Impact Assessment of Peak Flooding Event on River Training Measures: Brahmani River, NESAC, 16th March, 2017.
+* Presented a paper entitled "A Framework for Impact Assessment of Peak Flooding Event on River Training Measures: Brahmani River" in NESAC, Shilong,2017.
 
-* A. Sharma, C. Pradhan and J.P. Devi (2016). Monitoring spatiotemporal changes in snow cover in Tawang River catchment using remote sensing and GIS;Workshop on Advance Remote Sensing & GIS Methods and Applications; October,2016; IIT Guwahati,India.
+*  Presented a paper entitled "Monitoring spatiotemporal changes in snow cover in Tawang River catchment using remote sensing and GIS" in Workshop on Advance Remote Sensing & GIS Methods and Applications; October,2016; IIT Guwahati,India.
 
 * Attended a workshop on “Research Opportunities in Hydrology and Water Resources under Climate change” at IIT Guwahati.
-Participated in GIAN course on “Optimization methods to Ground Water Resources Management” organized by Department of Civil Engineering, Indian Institute of Technology Guwahati on 7th -11th March 2016.
+
+* Participated in GIAN course on “Optimization methods to Ground Water Resources Management” organized by Department of Civil Engineering, Indian Institute of Technology Guwahati on 7th -11th March 2016.
 
 * Participated in half day workshop on “Indo-Japan Workshop for Rainfall Disaster and Human Adaptability” organized by Department of Civil Engineering, Indian Institute of Technology Guwahati on 9th March 2016. 
 
