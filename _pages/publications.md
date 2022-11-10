@@ -49,9 +49,17 @@ You can also find updated list of my papers on [my Google Scholar profile](https
 
 8.	**C. Pradhan**, V. Chembolu and S. Dutta (2016). Impacts of River Interventions on Alluvial Channel Morphology- Hydro International, Organized by Indian Society of Hydraulics, 8-10th December, 2016, CWPRS, Pune.
 
+10.	10.	K. K. Nandi, C. Pradhan, K. K. Khatua, & S. Dutta (2022). Assessment of braided dynamics of a large river system with respect to the energy dissipation mechanism using cloud computing technique. In AGU Fall Meeting 2022.
+
 1.  K. K. Nandi,  A. Akkimi,  **C. Pradhan**, S. Dutta, &  K. K. Khatua (2021, December). Entropy Based Relation Between In-stream Green Corridor and Channel Stability of a Large Braided Brahmaputra River. In AGU Fall Meeting 2021. AGU.
 
 1. K. K. Nandi,  **C. Pradhan**,  J. Sultan, S. Dutta, &  K. K. Khatua (2021). Energy Dissipation Modeling in Highly Braided Brahmaputra River, HYDRO 2020- International Conference
+
+3. 13.	L.L. Sahoo, K.K. Nandi, A. Anjaneyulu, **C. Pradhan**, A. Dubey, S. Dutta; Catchment Scale Vulnerability Assessment of Physio-climatic Characteristics in the Brahmaputra River Basin; AOGS 2021.  
+ 
+14.	S. K. Saha, **C. Pradhan**, S. Dutta; Soil Erosion Assessment in Anthropogenically disturbed Ungauged Himalayan Catchment Using Geospatial Techniques; Abstract submitted to AGU Fall Meeting 2021.
+
+16.	K.K. Nandi, **C. Pradhan**, Dutta. S., K.K. Khatua; Sediment transport and morphological characterization for a large braided river using hydrodynamic modeling, 4th International Conference on the status and future of the World’s Large Rivers, Moscow 2021.
 
 1. A. Siddharth, **C. Pradhan**, M. Suresh, S. Dutta (2019). Effect of In-stream Variable on the Lower Mahanadi River, India, 2019/7/31, 16th Annual Meeting, AOGS 2019, Singapore.
 
