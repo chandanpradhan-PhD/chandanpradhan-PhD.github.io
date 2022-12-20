@@ -33,7 +33,9 @@ You can also find updated list of my papers on [my Google Scholar profile](https
 
 ## Conferences
 
-1.	**C. Pradhan**, S. Dutta & R. Bharti (2021). Understanding River Freedom Space and Seasonal Variation of Surface Water Dynamics in Large Fluvial Landscapes: Implications for Floods and Anthropogenic Stress; Abstract submitted to AGU Fall Meeting 2021.
+1.	**C. Pradhan**, K.K. Nandi, S.K. Padhee, R. Bharti & S. Dutta (2022). Understanding River Recovery for Indian Rivers: Emerging Challenges and Solutions; AGU Fall Meeting 2022.
+
+3.	**C. Pradhan**, S. Dutta & R. Bharti (2021). Understanding River Freedom Space and Seasonal Variation of Surface Water Dynamics in Large Fluvial Landscapes: Implications for Floods and Anthropogenic Stress; AGU Fall Meeting 2021.
 
 2.	**C. Pradhan**, S. Dutta & R. Bharti (2021). Assessing The River Freedom Space along the continuum of braided channel patterns using advanced geo-spatial analysis, 4th International Conference on the status and future of the World’s Large Rivers, Moscow 2021.
 
