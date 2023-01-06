@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 Post-Doctoral Fellow (Civil), TIH-TIDF (NM-ICPS), <br/> Indian Institute of Technology Guwahati
-M. Tech and PhD <br/> 
+<br/> M. Tech and PhD
 Department of Civil Engineering <br/> 
 Indian Institute of Technology Guwahati <br/> 
 Guwahati - 781039, Assam, India <br/> 
