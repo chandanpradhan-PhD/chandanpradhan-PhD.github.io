@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Post-Doctoral Fellow (Civil), TIH-TIDF (NM-ICPS) at Indian Institute of Technology Guwahati
+Post-Doctoral Fellow (Civil), TIH-TIDF (NM-ICPS), <br/> Indian Institute of Technology Guwahati
 M. Tech and PhD <br/> 
 Department of Civil Engineering <br/> 
 Indian Institute of Technology Guwahati <br/> 
