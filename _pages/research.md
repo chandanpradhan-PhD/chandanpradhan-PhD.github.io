@@ -15,7 +15,10 @@ My research interest is focused on understanding the impact of anthropogenic dis
 * Eco-hydraulics
 * Applications of Geospatial Techniques in Water Resources 
 
+---
+## Publications
 
+You can also find updated list of my papers on [my Google Scholar profile](https://scholar.google.co.in/citations?user=G_9zUzsAAAAJ&hl=en).
 
 
 
