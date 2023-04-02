@@ -9,11 +9,10 @@ My research interest is focused on understanding the impact of anthropogenic dis
 
 ## My research interests are:
 
-* River Hydraulics
-* Fluvial Geomorphology
+* Hydraulics
+* River Engineering
 * Stream Health Management
-* Eco-hydraulics
-* Applications of Geospatial Techniques in Water Resources 
+* Remote Sensing
 
 ---
 ## Publications
