@@ -64,9 +64,9 @@ To understand the complex processes in the Brahmaputra River system and explore 
 * Graduate Trainee Engineer, Jindal Steel Plant Limited, Angul, Odisha (2013-2014) 
   
 ## Skills
-* Hydrodynamic Models- HEC-RAS, CCHE2D
-* Google Earth Engine/ Arc-GIS, Q-GIS
-* MATLAB
+* Hydrodynamic Models- HEC-RAS, CCHE2D, Flow 3D
+* Google Earth Engine/ Arc-GIS, Q-GIS, ERDAS-Imagine, ENVI
+* MATLAB, Python
 
 ## Talks/ Workshop/ Symposium
 * Participated in the Master Class “River functions under pressure”, by Hervé Piégay, Jorge Abad and Virginia Ruiz-Villanueva, Delft, 10th July 2020, 10th International Conference on Fluvial Hydraulics River Flow 2020, Delft, Netherland.
