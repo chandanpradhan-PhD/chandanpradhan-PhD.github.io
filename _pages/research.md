@@ -15,9 +15,6 @@ I completed my Ph.D. in the Department of Civil Engineering, IITG in 2022. My di
 * Remote Sensing
 
 ---
-## Publications
-
-You can also find updated list of my papers on [my Google Scholar profile](https://scholar.google.co.in/citations?user=G_9zUzsAAAAJ&hl=en).
 
 
 
