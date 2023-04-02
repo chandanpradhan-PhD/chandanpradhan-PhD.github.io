@@ -22,9 +22,9 @@ I have a B.Tech. (Bachelor of Technology) degree in Civil Engineering from [IGIT
 
 ## [Updates]
 
-* Attending Asia Oceania Geosciences Society (AOGS) 2023 at Singapore to present on topic "Evaluating the Influence of Hydrological Changes on the Process-based River Recovery Trajectory in Asian River Systems"
+* Attending Asia Oceania Geosciences Society (AOGS) 2023 Conference at Singapore to present on topic "Evaluating the Influence of Hydrological Changes on the Process-based River Recovery Trajectory in Asian River Systems"
 
-* Presented on AGU Fall Meeting 2022, on "Understanding River Recovery for Indian Rivers: Emerging Challenges and Solutions"
+* Presented in AGU Fall Meeting 2022 Conference, on "Understanding River Recovery for Indian Rivers: Emerging Challenges and Solutions"
 
 * Published a research article on 'River Recovery' in Nature Scientific Reports Journal
 
