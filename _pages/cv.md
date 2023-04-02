@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* **Ph.D.** in Fluvial geomorphology and River Hydraulics (2022)
+* **Ph.D.** in Hydraulics and River Engineering (2022)
 	* Department of Civil Engineering <br/> 
 	* Indian Institute of Technology (IIT) Guwahati, India <br/>
 	* Supervisors: [Dr. Rishikesh Bharti](https://www.iitg.ac.in/rbharti/) and [Prof. Subashisa Dutta](https://www.iitg.ac.in/civil/Dr.%20Subashisa%20Dutta/index.htm) <br/>
@@ -34,6 +34,11 @@ redirect_from:
 	* Percentage - 93.3/100
 	
 ## Work Experience
+
+* Post Doctoral Fellow (Civi), TIH-TIDF, IIT Guwahati (December 2022- Continuing) 
+# Work Component: 
+To understand the complex processes in the Brahmaputra River system and explore the bio-morphological responses with underwater robotics and sensors. My responsibilities are to develop a low-cost real-time physical perimeter monitoring systems for the wetlands connected to the Brahmaputra River. Further, it extends to create a cloud database for accessing the health of wetlands and associated productivity to identify the vulnerable classes (critical risk indicators) for enhanced catchment water management and improved action plans.
+
 * JRF, TIH-TIDF, IIT Guwahati (July 2022-October 2022) 
 
 * Teaching Assistant, 
