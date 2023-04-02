@@ -33,6 +33,8 @@ You can also find updated list of my papers on [my Google Scholar profile](https
 
 ## Conferences
 
+1.	**C. Pradhan**, S.K. Padhee, K.K. Nandi, S.K. Padhee, S. Dutta & R. Bharti (2023)Evaluating the Influence of Hydrological Changes on the Process-based River Recovery Trajectory in Asian River Systems, AOGS 2023 (Abstract Accepted).
+
 1.	**C. Pradhan**, K.K. Nandi, S.K. Padhee, R. Bharti & S. Dutta (2022). Understanding River Recovery for Indian Rivers: Emerging Challenges and Solutions; AGU Fall Meeting 2022.
 
 3.	**C. Pradhan**, S. Dutta & R. Bharti (2021). Understanding River Freedom Space and Seasonal Variation of Surface Water Dynamics in Large Fluvial Landscapes: Implications for Floods and Anthropogenic Stress; AGU Fall Meeting 2021.
