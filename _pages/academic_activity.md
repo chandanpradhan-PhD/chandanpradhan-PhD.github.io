@@ -10,13 +10,17 @@ redirect_from:
 {% include base_path %}
 
 ## Teaching Assistant:
+* Advanced Hydraulics
 * Engineering Hydrology 
 * Remote Sensing and GIS
 * Engineering Geology
 
-## Peer Review:
+## Peer Review: 
+* ISH Journal of Hydraulic Engineering
 * International Journal of Applied Earth Observation and Geoinformation
 * Remote Sensing Applications Society and Environment
+
+Read more about Peer Review at:https://www.webofscience.com/wos/author/record/ABE-8668-2022
 
 ## Talks/Presentations:
 * Delivered a lecture on HEC-RAS hydrodynamic model in two-day training program entitled "River Bank Erosion Stabilization and River Modelling under National Hydrology Project" at Department of Civil Engineering, IIT Guwahati (https://twitter.com/NHPConnect/status/1572818797282533376).
