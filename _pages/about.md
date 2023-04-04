@@ -22,16 +22,16 @@ I have a B.Tech. (Bachelor of Technology) degree in Civil Engineering from [IGIT
 
 ## [Updates]
 
-* Attending Asia Oceania Geosciences Society (AOGS) 2023 Conference at Singapore to present on topic "Evaluating the Influence of Hydrological Changes on the Process-based River Recovery Trajectory in Asian River Systems"
+* Attending Asia Oceania Geosciences Society **(AOGS) 2023** Conference at Singapore to present on topic "Evaluating the Influence of Hydrological Changes on the Process-based River Recovery Trajectory in Asian River Systems"
 
-* Presented in AGU Fall Meeting 2022 Conference, on "Understanding River Recovery for Indian Rivers: Emerging Challenges and Solutions"
+* Presented in **AGU Fall Meeting 2022** Conference, on "Understanding River Recovery for Indian Rivers: Emerging Challenges and Solutions"
 
-* Published a research article on 'River Recovery' in Nature Scientific Reports Journal
+* Published a research article on 'River Recovery' in **Nature Scientific Reports Journal**
 
   **Read the article at-**
   Pradhan, C., Padhee, S.K., Bharti, R. et al. A process-based recovery indicator for anthropogenically disturbed river system. Sci Rep 12, 10390 (2022). https://doi.org/10.1038/s41598-022-14542-x
   
-* Co-authord a research article entitled 'Understanding the Entropy-based Morphological Variability and Energy Expenditure Mechanism of a large Braided River System' in the Journal of Hydrology.
+* Co-authord a research article entitled 'Understanding the Entropy-based Morphological Variability and Energy Expenditure Mechanism of a large Braided River System' in the **Journal of Hydrology.**
 
 * Co-authord a book chapter on 'Hydrological Modeling in Himalayan River System' in Soil-Water, Agriculture, and Climate (Water Sci.,Technol.Library, Vol. 113).
 
