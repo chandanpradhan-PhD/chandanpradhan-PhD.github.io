@@ -40,6 +40,8 @@ redirect_from:
 Work Component: 
 To understand the complex processes in the Brahmaputra River system and explore the bio-morphological responses with underwater robotics and sensors. My responsibilities are to develop a low-cost real-time physical perimeter monitoring systems for the wetlands connected to the Brahmaputra River. Further, it extends to create a cloud database for accessing the health of wetlands and associated productivity to identify the vulnerable classes (critical risk indicators) for enhanced catchment water management and improved action plans.
 
+* Field investigations (ADCP-based surveys) to the large Himalayan and peninsular fluvial systems of India, including the Brahmaputra, the Kameng, the Manas, the Kopili, the Mahanadi, and the Brahmani (Conducted by Geo-Informatics Lab, IIT Guwahati) (2014-2022).
+
 * JRF, TIH-TIDF, IIT Guwahati (July 2022-October 2022) 
 
 * Teaching Assistant, 
