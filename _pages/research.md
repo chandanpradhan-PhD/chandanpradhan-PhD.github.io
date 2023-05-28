@@ -31,3 +31,11 @@ I completed my Ph.D. in the Department of Civil Engineering, IITG in 2022. My di
 | Role of Effective Discharge   | The study examines the crucial role of effective discharge in the transport of suspended sediment in a regulated macrochannel river system, specifically the Brahmani River in India, and its influence on landscape modification and river restoration|
 | Impact of Dam Construction   | The research reveals the significant alteration in the natural flow-sediment regime and channel pattern of the Brahmani River due to the construction of the Rengali dam, leading to a notable reduction in effective discharge |
 | Insights on River Morphology and Energy Dissipation	|  The paper formulates an effective discharge integrated stream power curve that accurately predicts channel transition in the post-dam period. The proposed probability of braiding further illuminates the hierarchy of energy dissipation and the morphological continuum in the Brahmani River |
+
+**Publication 3**: [*Regulated rivers in India: research progress and future directions*](https://www.tandfonline.com/doi/full/10.1080/09715010.2021.1975319)
+
+| Key Findings     | Highlights |
+| ----------- | ----------- |
+| Impact of Large Dams   | The paper discusses how large dams impose an artificial flow-sediment regime that results in significant alterations to channel forms and riverine habitats, with a particular focus on the situation in India|
+| Need for Interdisciplinary Approach   | It stresses the need for interdisciplinary multifaceted approaches to understand and predict channel behavior in complex relaxation paths along regulated rivers in India, given that current understanding is still in its preliminary stages |
+| Conceptual Frameworks and Future Directions	|  The article concludes by proposing new conceptual frameworks and research directions concerning the implications of channel-forming discharge and river recovery potential in the Himalayan and peninsular rivers |
