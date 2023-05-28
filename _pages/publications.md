@@ -9,7 +9,7 @@ You can also find updated list of my papers on [my Google Scholar profile](https
 
 ## Journal Articles 
 
-1. **C. Pradhan**, S.K. Padhee, R. Bharti & S. Dutta (2022). A process-based recovery indicator for anthropogenically disturbed river system. Scientific Reports, 12, 10390. https://doi.org/10.1038/s41598-022-14542-x
+1. **C. Pradhan**, S.K. Padhee, R. Bharti & S. Dutta (2022). A process-based recovery indicator for anthropogenically disturbed river system. Scientific Reports, 12, 10390. (https://doi.org/10.1038/s41598-022-14542-x)
 
 2. **C. Pradhan**, V. Chembolu, S. Dutta, & R. Bharti (2021). Role of effective discharge on morphological changes for a regulated macrochannel river system. Geomorphology, 385, 107718. https://doi.org/10.1016/j.geomorph.2021.107718
 
