@@ -20,6 +20,8 @@ Welcome! I am a Post-Doctoral Fellow (Civil) in the [Technology Innovation Hub- 
 I have a B.Tech. (Bachelor of Technology) degree in Civil Engineering from [IGIT Sarang](https://igitsarang.ac.in/) and a M.Tech. (Master of Technology) degree in Water Resources Engineering and Management from [IIT Guwahati](https://iitg.ac.in/). In my Ph.D. at IIT Guwahati, I have worked on impact of anthropogenic disturbances on fluvial systems. I am also studying the quantitative fluvial geomorphology with hydrodynamic modelling, fluvial data analysis, and remote sensing based tools/ cloud computing platforms.
 
 
+## ![Delving Deep into River Dynamics: A Passionate Journey through Process-Level Understanding](/images/Fieldsurvey.JPG)
+
 ## [Updates]
 
 * Attending Asia Oceania Geosciences Society **(AOGS) 2023** Conference at Singapore to present on topic "Evaluating the Influence of Hydrological Changes on the Process-based River Recovery Trajectory in Asian River Systems"
