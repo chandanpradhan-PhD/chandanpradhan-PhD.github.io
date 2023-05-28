@@ -16,6 +16,7 @@ redirect_from:
 * Engineering Geology
 
 ## Peer Review: 
+* Journal of Hydrology
 * ISH Journal of Hydraulic Engineering
 * International Journal of Applied Earth Observation and Geoinformation
 * Remote Sensing Applications Society and Environment
