@@ -9,19 +9,19 @@ You can also find updated list of my papers on [my Google Scholar profile](https
 
 ## Journal Articles 
 
-1. **C. Pradhan**, S.K. Padhee, R. Bharti & S. Dutta (2022). [A process-based recovery indicator for anthropogenically disturbed river system. **Scientific Reports** 12, 10390](https://doi.org/10.1038/s41598-022-14542-x)
+1. **C. Pradhan**, S.K. Padhee, R. Bharti & S. Dutta (2022). A process-based recovery indicator for anthropogenically disturbed river system. [**Scientific Reports**](https://doi.org/10.1038/s41598-022-14542-x)
 
-2. **C. Pradhan**, V. Chembolu, S. Dutta, & R. Bharti (2021). [Role of effective discharge on morphological changes for a regulated macrochannel river system. **Geomorphology** 385, 107718.](https://doi.org/10.1016/j.geomorph.2021.107718)
+2. **C. Pradhan**, V. Chembolu, S. Dutta, & R. Bharti (2021). Role of effective discharge on morphological changes for a regulated macrochannel river system. [**Geomorphology**](https://doi.org/10.1016/j.geomorph.2021.107718)
 
-1. **C. Pradhan**, V. Chembolu, R. Bharti & S. Dutta (2021). [Regulated rivers in India: research progress and future directions. **ISH Journal of Hydraulic Engineering**](https://doi.org/10.1080/09715010.2021.1975319)   
+1. **C. Pradhan**, V. Chembolu, R. Bharti & S. Dutta (2021). Regulated rivers in India: research progress and future directions. [**ISH Journal of Hydraulic Engineering**](https://doi.org/10.1080/09715010.2021.1975319)   
 
-1. **C. Pradhan**, V. Chembolu & S. Dutta (2019). [Impact of river interventions on alluvial channel morphology. **ISH Journal of Hydraulic Engineering** 25:1, 87-93.](https://doi.org/10.1080/09715010.2018.1453878) 
+1. **C. Pradhan**, V. Chembolu & S. Dutta (2019). Impact of river interventions on alluvial channel morphology. [**ISH Journal of Hydraulic Engineering**](https://doi.org/10.1080/09715010.2018.1453878) 
 
-1. K.K. Nandi, **C. Pradhan**, S. K. Padhee, S. Dutta, K.K. Khatua (2022). [Understanding the Entropy-based Morphological Variability and Energy Expenditure Mechanism of a large Braided River System. **Journal of Hydrology**](https://doi.org/10.1016/j.jhydrol.2022.128662)
+1. K.K. Nandi, **C. Pradhan**, S. K. Padhee, S. Dutta, K.K. Khatua (2022). Understanding the Entropy-based Morphological Variability and Energy Expenditure Mechanism of a large Braided River System. [**Journal of Hydrology**](https://doi.org/10.1016/j.jhydrol.2022.128662)
 
-1. K.K. Nandi, **C. Pradhan**, S. Dutta, K.K. Khatua (2022). [How dynamic is the Brahmaputra? Understanding the process-form-vegetation interactions for hierarchies of energy dissipation. **Ecohydrology**](https://doi.org/10.1002/eco.2416)
+1. K.K. Nandi, **C. Pradhan**, S. Dutta, K.K. Khatua (2022). How dynamic is the Brahmaputra? Understanding the process-form-vegetation interactions for hierarchies of energy dissipation. [**Ecohydrology**](https://doi.org/10.1002/eco.2416)
 
-1. V. G.Rangarajan, R. Bharti, S. K.Mondal,  **C.Pradhan**, &  S.Dutta (2018). [Remote Sensing for Martian Studies: Inferences from Syrtis Major. **Journal of the Indian Society of Remote Sensing** 1-15.](https://doi.org/10.1007/s12524-018-0826-7)
+1. V. G.Rangarajan, R. Bharti, S. K.Mondal,  **C.Pradhan**, &  S.Dutta (2018). Remote Sensing for Martian Studies: Inferences from Syrtis Major. [**Journal of the Indian Society of Remote Sensing**](https://doi.org/10.1007/s12524-018-0826-7)
 
 ## Book Chapters
 
