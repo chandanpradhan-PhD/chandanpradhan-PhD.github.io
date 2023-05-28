@@ -30,19 +30,17 @@ I have a B.Tech. (Bachelor of Technology) degree in Civil Engineering from [IGIT
 
 * Published a research article on 'River Recovery' in **Nature Scientific Reports Journal**
 
-  **Read the article at-**
-  Pradhan, C., Padhee, S.K., Bharti, R. et al. A process-based recovery indicator for anthropogenically disturbed river system. Sci Rep 12, 10390 (2022). https://doi.org/10.1038/s41598-022-14542-x
-  
+  **[Read the article at-](https://doi.org/10.1038/s41598-022-14542-x)**
+  Pradhan, C., Padhee, S.K., Bharti, R. et al. A process-based recovery indicator for anthropogenically disturbed river system. Sci Rep 12, 10390 (2022).
 * Co-authord a research article entitled 'Understanding the Entropy-based Morphological Variability and Energy Expenditure Mechanism of a large Braided River System' in the **Journal of Hydrology.**
 
 * Co-authord a book chapter on 'Hydrological Modeling in Himalayan River System' in Soil-Water, Agriculture, and Climate (Water Sci.,Technol.Library, Vol. 113).
 
-  **Read the article at-**
- https://link.springer.com/book/9783031120589
-
+  **[Read the article at-](https://link.springer.com/book/9783031120589)**
+ 
 * Delivered a lecture on 'Implications of Google Earth Engine in Hydro-ecological Modeling' to Assam State Water Resources Engeneers in workshop conducted by NHP proeject.
 * Delivered a lecture on 'River Recovery and Use of Geospatial Techniques' in 5th Pre-event of the 2nd UN-WGI Congress, Gauhati University, India
-* Co-ordinated a two-day training program entitled "River Bank Erosion Stabilization and River Modelling under National Hydrology Project" at Department of Civil Engineering, IIT Guwahati (https://twitter.com/NHPConnect/status/1572818797282533376).
+* Co-ordinated a two-day training program entitled ["River Bank Erosion Stabilization and River Modelling under National Hydrology Project"](https://twitter.com/NHPConnect/status/1572818797282533376) at Department of Civil Engineering, IIT Guwahati 
 
 ## Contact Info and Links:
 * E-mail: c.pradhan@iitg.ac.in
