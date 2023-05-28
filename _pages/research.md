@@ -22,5 +22,12 @@ I completed my Ph.D. in the Department of Civil Engineering, IITG in 2022. My di
 | ----------- | ----------- |
 | Utilization of Entropy Theory and Cloud Computing   | The study employs entropy theory and Google Earth Engine cloud computing to analyze the state and recovery potential of two large sub-basins of the Mahanadi River in India, with particular focus on post-monsoon season dynamics|
 | Novel Assessment Indicators   | The paper introduces a normalized river recovery indicator (NRRI) and cross-sectional intensity entropy (CIE) as methods to assess temporal changes in river health, and to identify system dynamics and evolutionary adjustments |
-| Instream Vegetation and Energy Dissipation	|  The research underlines the critical role of instream vegetation in controlling the hierarchy of energy dissipation and shaping the morphological continuum in the macrochannel settings, potentially steering the river recovery trajectory. |
+| Instream Vegetation and Energy Dissipation	|  The research underlines the critical role of instream vegetation in controlling the hierarchy of energy dissipation and shaping the morphological continuum in the macrochannel settings, potentially steering the river recovery trajectory |
 
+**Publication 2**: [*Role of effective discharge on morphological changes for a regulated macrochannel river system*](https://www.sciencedirect.com/science/article/pii/S0169555X21001264)
+
+| Key Findings     | Highlights |
+| ----------- | ----------- |
+| Role of Effective Discharge   | The study examines the crucial role of effective discharge in the transport of suspended sediment in a regulated macrochannel river system, specifically the Brahmani River in India, and its influence on landscape modification and river restoration|
+| Impact of Dam Construction   | The research reveals the significant alteration in the natural flow-sediment regime and channel pattern of the Brahmani River due to the construction of the Rengali dam, leading to a notable reduction in effective discharge |
+| Insights on River Morphology and Energy Dissipation	|  The paper formulates an effective discharge integrated stream power curve that accurately predicts channel transition in the post-dam period. The proposed probability of braiding further illuminates the hierarchy of energy dissipation and the morphological continuum in the Brahmani River |
