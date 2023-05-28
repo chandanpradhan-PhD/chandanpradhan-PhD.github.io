@@ -14,7 +14,12 @@ I completed my Ph.D. in the Department of Civil Engineering, IITG in 2022. My di
 * Stream Health Management
 * Remote Sensing
 
----
+## Selected Research Output:
 
-
+**Publication 1**: *A process‑based recovery indicator for anthropogenically disturbed river system*
+| Key Findings     | Highlights |
+| ----------- | ----------- |
+| Utilization of Entropy Theory and Cloud Computing   | The study employs entropy theory and Google Earth Engine cloud computing to analyze the state and recovery potential of two large sub-basins of the Mahanadi River in India, with particular focus on post-monsoon season dynamics       |
+| Novel Assessment Indicators   | The paper introduces a normalized river recovery indicator (NRRI) and cross-sectional intensity entropy (CIE) as methods to assess temporal changes in river health, and to identify system dynamics and evolutionary adjustments      |
+| Instream Vegetation and Energy Dissipation	|  The research underlines the critical role of instream vegetation in controlling the hierarchy of energy dissipation and shaping the morphological continuum in the macrochannel settings, potentially steering the river recovery trajectory. |
 
