@@ -16,7 +16,7 @@ I completed my Ph.D. in the Department of Civil Engineering, IITG in 2022. My di
 
 ## Selected Research Output:
 
-**Publication 1**: *A process‑based recovery indicator for anthropogenically disturbed river system*
+**Publication 1**: [*A process‑based recovery indicator for anthropogenically disturbed river system*](https://link.springer.com/content/pdf/10.1038/s41598-022-14542-x.pdf)
 
 | Key Findings     | Highlights |
 | ----------- | ----------- |
