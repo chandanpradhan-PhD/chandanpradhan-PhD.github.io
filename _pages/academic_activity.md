@@ -13,7 +13,7 @@ redirect_from:
 * Advanced Hydraulics
 * Engineering Hydrology 
 * Remote Sensing and GIS
-* Engineering Geology
+
 
 ## Peer Review: 
 * Journal of Hydrology
