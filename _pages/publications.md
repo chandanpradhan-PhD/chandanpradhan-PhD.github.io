@@ -33,7 +33,9 @@ You can also find updated list of my papers on [my Google Scholar profile](https
 
 ## Conferences
 
-1.	**C. Pradhan**, S.K. Padhee, K.K. Nandi, S.K. Padhee, S. Dutta & R. Bharti (2023)Evaluating the Influence of Hydrological Changes on the Process-based River Recovery Trajectory in Asian River Systems, AOGS 2023 (Abstract Accepted).
+1.	**C. Pradhan**, S. Dutta & R. Bharti (2023) Sediment Connectivity and River Recovery: Application of Pertinent River Science Concepts in Himalayan Catchments, 3rd International Conference on River Corridor Research and Management (RCRM 2023).
+
+1.	**C. Pradhan**, K.K. Nandi, S.K. Padhee, S. Dutta & R. Bharti (2023)Evaluating the Influence of Hydrological Changes on the Process-based River Recovery Trajectory in Asian River Systems, AOGS 2023 (Abstract Accepted).
 
 1.	**C. Pradhan**, K.K. Nandi, S.K. Padhee, R. Bharti & S. Dutta (2022). Understanding River Recovery for Indian Rivers: Emerging Challenges and Solutions; AGU Fall Meeting 2022.
 
