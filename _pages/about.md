@@ -24,7 +24,7 @@ I have a B.Tech. (Bachelor of Technology) degree in Civil Engineering from [IGIT
 
 ## [Updates]
 
-* Published a research article in **Catena Journal**, which focuses on the development of process-based geomorphic indicators and resilience-based management strategies for a highly braided river system **[Read the article](https://doi.org/10.1038/s41598-022-14542-x](https://doi.org/10.1016/j.catena.2023.107411)**
+* Published a research article in **Catena Journal**, which focuses on the development of process-based geomorphic indicators and resilience-based management strategies for a highly braided river system **[Read the article](https://doi.org/10.1016/j.catena.2023.107411)**
 
   Pradhan, C., Padhee, S.K., Bharti, R. et al. A process-based recovery indicator for anthropogenically disturbed river system. Sci Rep 12, 10390 (2022).
   
