@@ -9,6 +9,8 @@ You can also find updated list of my papers on [my Google Scholar profile](https
 
 ## Journal Articles 
 
+1. **C. Pradhan**, Ketan K Nandi, Rishikesh Bharti, Subashisa Dutta (2023). Developing process-based geomorphic indicators for understanding river dynamics of a highly braided system: Implications for designing resilience based management strategies. [**Catena**](https://doi.org/10.1038/s41598-022-14542-x](https://doi.org/10.1016/j.catena.2023.107411).
+   
 1. **C. Pradhan**, S.K. Padhee, R. Bharti & S. Dutta (2022). A process-based recovery indicator for anthropogenically disturbed river system. [**Scientific Reports**](https://doi.org/10.1038/s41598-022-14542-x)
 
 2. **C. Pradhan**, V. Chembolu, S. Dutta, & R. Bharti (2021). Role of effective discharge on morphological changes for a regulated macrochannel river system. [**Geomorphology**](https://doi.org/10.1016/j.geomorph.2021.107718)
