@@ -26,6 +26,7 @@ You can also find updated list of my papers on [my Google Scholar profile](https
 1. V. G.Rangarajan, R. Bharti, S. K.Mondal,  **C.Pradhan**, &  S.Dutta (2018). Remote Sensing for Martian Studies: Inferences from Syrtis Major. [**Journal of the Indian Society of Remote Sensing**](https://doi.org/10.1007/s12524-018-0826-7)
 
 ## Book Chapters
+1.	**C. Pradhan**, S. Dutta, & R. Bharti (2023). Exploring Large Braided River Systems: Understanding the Dynamics and Pathways of River Recover. Recent Development in River Corridor Management. Lecture Notes in Civil Engineering 376, https://doi.org/10.1007/978-981-99-4423-1_10 
 
 1. **C. Pradhan**, S.K. Padhee, S. Dutta, & R. Bharti (2022). Assessment of Fluvial Controls and Cross-Sectional Recovery Indicators in a Large Regulated River. Recent Trends in River Corridor Management. [Lecture Notes in Civil Engineering, vol 229. Springer, Singapore.](https://doi.org/10.1007/978-981-16-9933-7_3) 
 
