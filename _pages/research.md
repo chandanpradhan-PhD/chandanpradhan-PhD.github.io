@@ -32,10 +32,10 @@ I completed my Ph.D. in the Department of Civil Engineering, IITG in 2022. My di
 | Impact of Dam Construction   | The research reveals the significant alteration in the natural flow-sediment regime and channel pattern of the Brahmani River due to the construction of the Rengali dam, leading to a notable reduction in effective discharge |
 | Insights on River Morphology and Energy Dissipation	|  The paper formulates an effective discharge integrated stream power curve that accurately predicts channel transition in the post-dam period. The proposed probability of braiding further illuminates the hierarchy of energy dissipation and the morphological continuum in the Brahmani River |
 
-**Publication 3**: [*Regulated rivers in India: research progress and future directions*](https://www.tandfonline.com/doi/full/10.1080/09715010.2021.1975319)
+**Publication 3**: [*Developing process-based geomorphic indicators for understanding river dynamics of a highly braided system: Implications for designing resilience based management strategies*](https://doi.org/10.1016/j.catena.2023.107411)
 
 | Key Findings     | Highlights |
 | ----------- | ----------- |
-| Impact of Large Dams   | The paper discusses how large dams impose an artificial flow-sediment regime that results in significant alterations to channel forms and riverine habitats, with a particular focus on the situation in India|
-| Need for Interdisciplinary Approach   | It stresses the need for interdisciplinary multifaceted approaches to understand and predict channel behavior in complex relaxation paths along regulated rivers in India, given that current understanding is still in its preliminary stages |
-| Conceptual Frameworks and Future Directions	|  The article concludes by proposing new conceptual frameworks and research directions concerning the implications of channel-forming discharge and river recovery potential in the Himalayan and peninsular rivers |
+|Locational Probability Index   | Based on the system state trajectory, LPI variability, proximity to thresholds, and in-channel landform configuration, the study proposes a multi-faceted resilience-based freedom space management approach|
+| Planform Evolution   | This approach aims to enhance the management strategies for the highly braided Brahmaputra River, considering its geomorphic adjustments and planform evolution |
+| Resilience-based principles	|  By incorporating resilience-based principles, the proposed management approach offers a more adaptable and sustainable solution to address the challenges posed by the river's dynamic behavior and changing geomorphological conditions |
