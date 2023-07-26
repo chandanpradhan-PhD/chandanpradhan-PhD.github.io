@@ -16,7 +16,7 @@ I completed my Ph.D. in the Department of Civil Engineering, IITG in 2022. My di
 
 ## Selected Research Output:
 
-**Publication 1**: [*A process‑based recovery indicator for anthropogenically disturbed river system*](https://link.springer.com/content/pdf/10.1038/s41598-022-14542-x.pdf)
+**Publication 1** (Scientific Reports): [*A process‑based recovery indicator for anthropogenically disturbed river system*](https://link.springer.com/content/pdf/10.1038/s41598-022-14542-x.pdf)
 
 | Key Findings     | Highlights |
 | ----------- | ----------- |
@@ -24,7 +24,7 @@ I completed my Ph.D. in the Department of Civil Engineering, IITG in 2022. My di
 | Novel Assessment Indicators   | The paper introduces a normalized river recovery indicator (NRRI) and cross-sectional intensity entropy (CIE) as methods to assess temporal changes in river health, and to identify system dynamics and evolutionary adjustments |
 | Instream Vegetation and Energy Dissipation	|  The research underlines the critical role of instream vegetation in controlling the hierarchy of energy dissipation and shaping the morphological continuum in the macrochannel settings, potentially steering the river recovery trajectory |
 
-**Publication 2**: [*Role of effective discharge on morphological changes for a regulated macrochannel river system*](https://www.sciencedirect.com/science/article/pii/S0169555X21001264)
+**Publication 2** (Geomorphology): [*Role of effective discharge on morphological changes for a regulated macrochannel river system*](https://www.sciencedirect.com/science/article/pii/S0169555X21001264)
 
 | Key Findings     | Highlights |
 | ----------- | ----------- |
@@ -32,10 +32,10 @@ I completed my Ph.D. in the Department of Civil Engineering, IITG in 2022. My di
 | Impact of Dam Construction   | The research reveals the significant alteration in the natural flow-sediment regime and channel pattern of the Brahmani River due to the construction of the Rengali dam, leading to a notable reduction in effective discharge |
 | Insights on River Morphology and Energy Dissipation	|  The paper formulates an effective discharge integrated stream power curve that accurately predicts channel transition in the post-dam period. The proposed probability of braiding further illuminates the hierarchy of energy dissipation and the morphological continuum in the Brahmani River |
 
-**Publication 3**: [*Developing process-based geomorphic indicators for understanding river dynamics of a highly braided system: Implications for designing resilience based management strategies*](https://doi.org/10.1016/j.catena.2023.107411)
+**Publication 3** (Catena): [*Developing process-based geomorphic indicators for understanding river dynamics of a highly braided system: Implications for designing resilience based management strategies*](https://doi.org/10.1016/j.catena.2023.107411)
 
 | Key Findings     | Highlights |
 | ----------- | ----------- |
 |Locational Probability Index   | Based on the system state trajectory, LPI variability, proximity to thresholds, and in-channel landform configuration, the study proposes a multi-faceted resilience-based freedom space management approach|
 | Planform Evolution   | This approach aims to enhance the management strategies for the highly braided Brahmaputra River, considering its geomorphic adjustments and planform evolution |
-| Resilience-based principles	|  By incorporating resilience-based principles, the proposed management approach offers a more adaptable and sustainable solution to address the challenges posed by the river's dynamic behavior and changing geomorphological conditions |
+| Resilience-based Principles	|  By incorporating resilience-based principles, the proposed management approach offers a more adaptable and sustainable solution to address the challenges posed by the river's dynamic behavior and changing geomorphological conditions |
