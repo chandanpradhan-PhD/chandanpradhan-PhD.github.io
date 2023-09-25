@@ -13,8 +13,7 @@ redirect_from:
 * **Ph.D.** in Department of Civil Engineering (2022) 
 	* Indian Institute of Technology (IIT) Guwahati, India <br/>
 	* Supervisors: [Dr. Rishikesh Bharti](https://www.iitg.ac.in/rbharti/) and [Prof. Subashisa Dutta](https://www.iitg.ac.in/civil/Dr.%20Subashisa%20Dutta/index.htm) <br/>
-	* Dissertation title: -
-	* CGPA (In Coursework)- 10.0/10.0
+	* Dissertation title: - Study of Process-form Relationships in Continuum of Braided Channel Patterns
 * **Master of Technology (M.Tech.)** in Water Resources Engineering (2016)
 	* Department of Civil Engineering <br/>
 	* Indian Institute of Technology (IIT) Guwahati, India <br/>
