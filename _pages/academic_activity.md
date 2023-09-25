@@ -16,6 +16,7 @@ redirect_from:
 
 
 ## Peer Review: 
+* Catena
 * Journal of Hydrology
 * ISH Journal of Hydraulic Engineering
 * International Journal of Applied Earth Observation and Geoinformation
