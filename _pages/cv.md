@@ -10,8 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* **Ph.D.** in Hydraulics and River Engineering (2022)
-	* Department of Civil Engineering <br/> 
+* **Ph.D.** in Department of Civil Engineering (2022) 
 	* Indian Institute of Technology (IIT) Guwahati, India <br/>
 	* Supervisors: [Dr. Rishikesh Bharti](https://www.iitg.ac.in/rbharti/) and [Prof. Subashisa Dutta](https://www.iitg.ac.in/civil/Dr.%20Subashisa%20Dutta/index.htm) <br/>
 	* Dissertation title: -
