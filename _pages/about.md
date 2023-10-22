@@ -9,10 +9,9 @@ redirect_from:
 ---
 
 Assistant Professor <br/>
-Department of Water Resources and Ocean Engineering <br/>  
-National Institute of Technology, Surathkal <br/>
+Department of Water Resources and Ocean Engineering, National Institute of Technology, Surathkal <br/>
 
-<br/>M. Tech and PhD <br/> 
+M. Tech and PhD <br/> 
 Department of Civil Engineering <br/> 
 Indian Institute of Technology Guwahati <br/> 
 Guwahati - 781039, Assam, India <br/> 
