@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Post-Doctoral Fellow (Civil), TIH-TIDF (NM-ICPS), <br/> Indian Institute of Technology Guwahati
+Assistant Professor, Department of Water Resources and Ocean Engineering <br/>  
+National Institute of Technology, Surathkal <br/>  
 <br/> M. Tech and PhD
 Department of Civil Engineering <br/> 
 Indian Institute of Technology Guwahati <br/> 
@@ -15,7 +16,7 @@ Guwahati - 781039, Assam, India <br/>
 
 ## About me
 
-Welcome! I am a Post-Doctoral Fellow (Civil) in the [Technology Innovation Hub- TIDF/NM-ICPS](https://iitg.ac.in/tihue/) of [Indian Institute of Technology Guwahati](https://iitg.ac.in/).  
+Welcome! I am an Assistant Professor in the [Department of Water Resources and Ocean Engineering]((https://appmech.nitk.ac.in/)) of [National Institute of Technology, Surathkal](https://www.nitk.ac.in/)).  
 
 I have a B.Tech. (Bachelor of Technology) degree in Civil Engineering from [IGIT Sarang](https://igitsarang.ac.in/) and a M.Tech. (Master of Technology) degree in Water Resources Engineering and Management from [IIT Guwahati](https://iitg.ac.in/). In my Ph.D. at IIT Guwahati, I have worked on impact of anthropogenic disturbances on fluvial systems. I am also studying the quantitative fluvial geomorphology with hydrodynamic modelling, fluvial data analysis, and remote sensing based tools/ cloud computing platforms.
 
@@ -23,6 +24,8 @@ I have a B.Tech. (Bachelor of Technology) degree in Civil Engineering from [IGIT
 ![Delving Deep into River Dynamics: A Passionate Journey through Process-Level Understanding](/images/Fieldsurvey.JPG)
 
 ## [Updates]
+
+*Co-authord a research article entitled 'Identifying the stability trajectory of a large braided Brahmaputra River using reach-scale process-based approach' in the **Journal of Hydrology.** **[Read the article]((https://www.sciencedirect.com/science/article/abs/pii/S0022169423012714))**
 
 * Published a research article in **Catena Journal**, which focuses on the development of process-based geomorphic indicators and resilience-based management strategies for a highly braided river system **[Read the article](https://doi.org/10.1016/j.catena.2023.107411)**
   
@@ -32,7 +35,6 @@ I have a B.Tech. (Bachelor of Technology) degree in Civil Engineering from [IGIT
 
 * Published a research article on 'River Recovery' in **Nature Scientific Reports Journal** **[Read the article](https://doi.org/10.1038/s41598-022-14542-x)**
 
-  Pradhan, C., Padhee, S.K., Bharti, R. et al. A process-based recovery indicator for anthropogenically disturbed river system. Sci Rep 12, 10390 (2022).
 * Co-authord a research article entitled 'Understanding the Entropy-based Morphological Variability and Energy Expenditure Mechanism of a large Braided River System' in the **Journal of Hydrology.**
 
 * Co-authord a book chapter on 'Hydrological Modeling in Himalayan River System' in Soil-Water, Agriculture, and Climate (Water Sci.,Technol.Library, Vol. 113). **[Read the article](https://link.springer.com/book/9783031120589)**
