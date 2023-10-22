@@ -9,7 +9,7 @@ You can also find updated list of my papers on [my Google Scholar profile](https
 
 ## Journal Articles 
 
-1. **C. Pradhan**, Ketan K Nandi, Rishikesh Bharti, Subashisa Dutta (2023). Developing process-based geomorphic indicators for understanding river dynamics of a highly braided system: Implications for designing resilience based management strategies. [**Catena**](https://doi.org/10.1016/j.catena.2023.107411).
+3. **C. Pradhan**, Ketan K Nandi, Rishikesh Bharti, Subashisa Dutta (2023). Developing process-based geomorphic indicators for understanding river dynamics of a highly braided system: Implications for designing resilience based management strategies. [**Catena**](https://doi.org/10.1016/j.catena.2023.107411).
    
 1. **C. Pradhan**, S.K. Padhee, R. Bharti & S. Dutta (2022). A process-based recovery indicator for anthropogenically disturbed river system. [**Scientific Reports**](https://doi.org/10.1038/s41598-022-14542-x)
 
@@ -17,7 +17,9 @@ You can also find updated list of my papers on [my Google Scholar profile](https
 
 1. **C. Pradhan**, V. Chembolu, R. Bharti & S. Dutta (2021). Regulated rivers in India: research progress and future directions. [**ISH Journal of Hydraulic Engineering**](https://doi.org/10.1080/09715010.2021.1975319)   
 
-1. **C. Pradhan**, V. Chembolu & S. Dutta (2019). Impact of river interventions on alluvial channel morphology. [**ISH Journal of Hydraulic Engineering**](https://doi.org/10.1080/09715010.2018.1453878) 
+1. **C. Pradhan**, V. Chembolu & S. Dutta (2019). Impact of river interventions on alluvial channel morphology. [**ISH Journal of Hydraulic Engineering**](https://doi.org/10.1080/09715010.2018.1453878)
+
+2.  K.K. Nandi, **C. Pradhan**, S. Dutta, K.K. Khatua (2023). Identifying the stability trajectory of a large braided Brahmaputra river using reach-scale process-based approach [**Journal of Hydrology**](https://doi.org/10.1016/j.jhydrol.2023.130329)
 
 1. K.K. Nandi, **C. Pradhan**, S. K. Padhee, S. Dutta, K.K. Khatua (2022). Understanding the Entropy-based Morphological Variability and Energy Expenditure Mechanism of a large Braided River System. [**Journal of Hydrology**](https://doi.org/10.1016/j.jhydrol.2022.128662)
 
