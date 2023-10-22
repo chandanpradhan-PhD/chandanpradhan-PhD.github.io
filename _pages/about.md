@@ -27,7 +27,7 @@ I have a B.Tech. (Bachelor of Technology) degree in Civil Engineering from [IGIT
 
 ## [Updates]
 
-*Co-authord a research article entitled 'Identifying the stability trajectory of a large braided Brahmaputra River using reach-scale process-based approach' in the **Journal of Hydrology.** **[Read the article]((https://www.sciencedirect.com/science/article/abs/pii/S0022169423012714))**
+* Co-authord a research article entitled 'Identifying the stability trajectory of a large braided Brahmaputra River using reach-scale process-based approach' in the **Journal of Hydrology.** **[Read the article]((https://www.sciencedirect.com/science/article/abs/pii/S0022169423012714))**
 
 * Published a research article in **Catena Journal**, which focuses on the development of process-based geomorphic indicators and resilience-based management strategies for a highly braided river system **[Read the article](https://doi.org/10.1016/j.catena.2023.107411)**
   
@@ -46,7 +46,7 @@ I have a B.Tech. (Bachelor of Technology) degree in Civil Engineering from [IGIT
 * Co-ordinated a two-day training program entitled ["River Bank Erosion Stabilization and River Modelling under National Hydrology Project"](https://twitter.com/NHPConnect/status/1572818797282533376) at Department of Civil Engineering, IIT Guwahati 
 
 ## Contact Info and Links:
-* E-mail: c.pradhan@iitg.ac.in
+* E-mail: c.pradhan@alumni.iitg.ac.in
 * ResearchGate: [Chandan Pradhan](https://www.researchgate.net/profile/Chandan_Pradhan5)
 * Google Scholar: [Chandan Pradhan](https://scholar.google.co.in/citations?user=G_9zUzsAAAAJ&hl=en&oi=ao)
 * LinkedIn: [Chandan Pradhan](https://www.linkedin.com/in/chandan-pradhan-a92b0326/) 
