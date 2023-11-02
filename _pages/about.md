@@ -18,7 +18,7 @@ Guwahati - 781039, Assam, India <br/>
 
 ## About me
 
-Welcome! I am an Assistant Professor in the [Department of Water Resources and Ocean Engineering](https://appmech.nitk.ac.in/)) of [National Institute of Technology, Surathkal](https://www.nitk.ac.in/)).  
+Welcome! I am an [Assistant Professor] (https://appmech.nitk.ac.in/professor/chandan-pradhan) in the [Department of Water Resources and Ocean Engineering](https://appmech.nitk.ac.in/)) of [National Institute of Technology, Surathkal](https://www.nitk.ac.in/).  
 
 I have a B.Tech. (Bachelor of Technology) degree in Civil Engineering from [IGIT Sarang](https://igitsarang.ac.in/) and a M.Tech. (Master of Technology) degree in Water Resources Engineering and Management from [IIT Guwahati](https://iitg.ac.in/). In my Ph.D. at IIT Guwahati, I have worked on impact of anthropogenic disturbances on fluvial systems. I am also studying the quantitative fluvial geomorphology with hydrodynamic modelling, fluvial data analysis, and remote sensing based tools/ cloud computing platforms.
 
@@ -46,7 +46,7 @@ I have a B.Tech. (Bachelor of Technology) degree in Civil Engineering from [IGIT
 * Co-ordinated a two-day training program entitled ["River Bank Erosion Stabilization and River Modelling under National Hydrology Project"](https://twitter.com/NHPConnect/status/1572818797282533376) at Department of Civil Engineering, IIT Guwahati 
 
 ## Contact Info and Links:
-* E-mail: c.pradhan@alumni.iitg.ac.in
+* E-mail: c.pradhan@nitk.edu.in
 * ResearchGate: [Chandan Pradhan](https://www.researchgate.net/profile/Chandan_Pradhan5)
 * Google Scholar: [Chandan Pradhan](https://scholar.google.co.in/citations?user=G_9zUzsAAAAJ&hl=en&oi=ao)
 * LinkedIn: [Chandan Pradhan](https://www.linkedin.com/in/chandan-pradhan-a92b0326/) 
