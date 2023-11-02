@@ -14,6 +14,7 @@ redirect_from:
 * ISH Journal of Hydraulic Engineering
 * International Journal of Applied Earth Observation and Geoinformation
 * Remote Sensing Applications Society and Environment
+* River Corridor Research and Management 
 
 Read more about [Peer Review Works](https://www.webofscience.com/wos/author/record/ABE-8668-2022)
 
