@@ -9,11 +9,11 @@ I completed my Ph.D. in the Department of Civil Engineering, IITG in 2022. My di
 
 ## My research interests are:
 
+* Remote Sensing
 * Hydraulics
 * River Engineering
 * Stream Health Management
-* Remote Sensing
-
+  
 ## Selected Research Output:
 
 **Publication 1** (Scientific Reports): [*A process‑based recovery indicator for anthropogenically disturbed river system*](https://link.springer.com/content/pdf/10.1038/s41598-022-14542-x.pdf)
