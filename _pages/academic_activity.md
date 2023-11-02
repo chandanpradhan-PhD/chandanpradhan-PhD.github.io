@@ -9,12 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-## Teaching Assistant:
-* Advanced Hydraulics
-* Engineering Hydrology 
-* Remote Sensing and GIS
-
-
 ## Peer Review: 
 * Journal of Hydrology
 * ISH Journal of Hydraulic Engineering
