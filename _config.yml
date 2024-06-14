@@ -13,7 +13,7 @@ name                     : &name "Dr. Chandan Pradhan"
 description              : &description "Dr. Chandan Pradhan's website"
 url                      : https://chandanpradhan-PhD.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "chandanpradhan133/chandanpradhan133.github.io"
+repository               : "chandanpradhan-PhD/chandanpradhan-PhD.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
