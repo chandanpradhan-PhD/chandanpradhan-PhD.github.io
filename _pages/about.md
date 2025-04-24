@@ -27,6 +27,10 @@ I have a B.Tech. (Bachelor of Technology) degree in Civil Engineering from [IGIT
 
 ## [Updates]
 
+* Co-convenor for the EGU 2025 session tilted- HS5.4.2 Urban Watersheds and Urban Water Challenges  Co-sponsored by IAHS Convener: Maria Magdalena WarterECS | Co-conveners: Jacklin Jeke Nilling ECS, Chandan Pradhan ECS, Giovanna Grossi, Chenghao Wang
+  
+* Presented in AGU 2024 on the paper titled- Recovery and Resilience Enhancement Strategies for Anthropogenically Disturbed Braided River Systems
+  
 * Co-authord a research article entitled 'Identifying the stability trajectory of a large braided Brahmaputra River using reach-scale process-based approach' in the **Journal of Hydrology.** **[Read the article]((https://www.sciencedirect.com/science/article/abs/pii/S0022169423012714))**
 
 * Published a research article in **Catena Journal**, which focuses on the development of process-based geomorphic indicators and resilience-based management strategies for a highly braided river system **[Read the article](https://doi.org/10.1016/j.catena.2023.107411)**
