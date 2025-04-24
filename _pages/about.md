@@ -27,7 +27,7 @@ I have a B.Tech. (Bachelor of Technology) degree in Civil Engineering from [IGIT
 
 ## [Updates]
 
-* Co-convenor for the EGU 2025 session tilted- HS5.4.2 Urban Watersheds and Urban Water Challenges  Co-sponsored by IAHS Convener: Maria Magdalena WarterECS | Co-conveners: Jacklin Jeke Nilling ECS, Chandan Pradhan ECS, Giovanna Grossi, Chenghao Wang
+* Co-convenor for the EGU 2025 session tilted- HS5.4.2 Urban Watersheds and Urban Water Challenges  Co-sponsored by IAHS Convener: Maria Magdalena Warter ECS, Co-conveners: Jacklin Jeke Nilling ECS, **Chandan Pradhan ECS**, Giovanna Grossi, Chenghao Wang
   
 * Presented in AGU 2024 on the paper titled- Recovery and Resilience Enhancement Strategies for Anthropogenically Disturbed Braided River Systems
   
